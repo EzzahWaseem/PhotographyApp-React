@@ -1,0 +1,32 @@
+/* import 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'; */
+
+.imgStyles{
+border-radius: 15000%;
+margin: 100px auto;
+margin-left: 120%;
+
+
+}
+img:hover{
+    box-shadow: 9px 9px 9px -3px rgba(19, 19, 18, 0.7);
+    cursor: pointer;
+    width: 400px;
+}
+
+.para{
+    margin: auto;
+    margin-left: 400px ;
+    margin-right: 0;
+    width: 500px;
+    color: rgb(209, 155, 8);
+
+}
+.about_para:hover{
+    box-shadow: 9px 9px 9px -3px rgba(19, 19, 18, 0.7);
+    cursor: pointer;
+    width: 600px;
+    font-size: large;
+}
+/* .about_icon{
+
+} */
